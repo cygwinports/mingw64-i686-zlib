@@ -1,0 +1,3 @@
+category: Devel
+requires: mingw64-i686-runtime
+sdesc: "zlib for MinGW-w64 Win32 toolchain"
